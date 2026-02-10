@@ -1,5 +1,3 @@
-
-
 Objectives
 
 1 Create a server application with Node, Express, and MongoDB.
@@ -59,3 +57,7 @@ new script beneath it.
 ADDED to MONGODB
 I manually added the list of quotes to my favorite_quotes directory in the quotes collection on MongoDB
 I kept getting validation errors when I tried to do it via Postman
+
+I was able to use GET to see the list of quotes I manually added to the MongoDB.
+But, I ran into errors when trying to POST, Patch, & DELETE the quotes. 
+It indicated that author and text were the required info that was missing.
