@@ -417,5 +417,3 @@ Key changes made:
 - **Changed status code** for POST from 204 to 201 (Created)
 
 This gives you a complete CRUD API for your inspirational quotes!*/
-
-
